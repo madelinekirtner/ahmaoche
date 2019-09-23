@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phoshohsh.sevenpigeons.nl/sitemap.xml
